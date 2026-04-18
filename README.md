@@ -52,7 +52,7 @@ This project implements a Natural Language Processing (NLP) system to classify S
 Example:
 
 ```id="imgex01"
-![App Screenshot](screenshot.png)
+![App Screenshot](https://github.com/gadhaspanicker/sms-spam-detector/blob/main/screenshot.png?raw=true)
 ```
 
 ---
