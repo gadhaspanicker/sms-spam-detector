@@ -47,13 +47,7 @@ This project implements a Natural Language Processing (NLP) system to classify S
 
 ## Application Interface
 
-(Add a screenshot of your web application here)
-
-Example:
-
-```id="imgex01"
-![App Screenshot](https://github.com/gadhaspanicker/sms-spam-detector/blob/main/screenshot.png?raw=true)
-```
+![App Screenshot](https://raw.githubusercontent.com/gadhaspanicker/sms-spam-detector/main/screenshot.png)
 
 ---
 
