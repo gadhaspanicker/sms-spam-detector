@@ -112,7 +112,6 @@ sms-spam-detector/
 ## Author
 
 Gadha S Panicker
-MSc Computer Science (Data Analytics)
 
 ---
 
